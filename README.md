@@ -15,7 +15,7 @@ All solutions earned at least 98% on the Coursera autograder.
 | 8-Puzzle    | https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php     | Priority queue and A* application for slider puzzle |
 | K-D Tree    | https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php      | 2-D binary search tree for point searching          |
 
-### Part III
+### Part II
 
 | Assignment           | Spec                                                                           | Description                                                           |
 |----------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------|
